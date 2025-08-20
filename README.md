@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kim Ngan  
 
-I am currently a **senior student at Ho Chi Minh City University of Foreign Languages and Information Technology (HUFLIT)**, majoring in **Software Engineering** (*2022 – Present*).  
+I am currently a **senior student at HCMC University of Foreign Languages - Information Technology (HUFLIT)**, majoring in **Software Engineering** (*2022 – Present*).  
 My career goal is to become a **QA/QC Tester (Manual & Automation)**, where I can contribute to delivering high-quality and reliable software products.  
 
 ## 🌐 Socials:
