@@ -4,7 +4,7 @@ I am currently a **senior student at HCMC University of Foreign Languages - Info
 My career goal is to become a **QA/QC Tester (Manual & Automation)**, where I can contribute to delivering high-quality and reliable software products.  
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/dangthikimngan3006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dangthikimngan2004@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dangthikimngan3006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dangthikimngan2004@gmail.com) 
 
 
 ## 💻 Tech Stack:
