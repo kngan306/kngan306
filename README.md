@@ -14,7 +14,6 @@ My career goal is to become a **QA/QC Tester (Manual & Automation)**, where I ca
 ### 🔹 Testing Tools
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white)  
 
----
 [![](https://visitcount.itsvg.in/api?id=kngan306&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
